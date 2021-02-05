@@ -26,3 +26,9 @@ Utilizando ponteiros
 
 ## go_strutures
 Criação de structs e exemplos
+
+## go_map
+Utilização de map e exemplo
+
+## go_recursion
+Funções recursivas e exemplos (Fibonacci, Fatorial)
